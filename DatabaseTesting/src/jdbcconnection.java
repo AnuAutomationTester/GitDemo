@@ -8,7 +8,6 @@ public class jdbcconnection {
 
 	public static void main(String[] args) throws SQLException {
 		// TODO Auto-generated method stub
-		// verify the database here it is Mysql db
 //steps to connect to mysql
 		//url to connect will be
 		//"jdbc:mysql://"+host+":"+port+"/database";
